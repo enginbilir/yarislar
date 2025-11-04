@@ -1,0 +1,5 @@
+{
+  "name": "PDF Yarış Listesi Dönüştürücü",
+  "description": "Binicilik yarışma listelerini içeren PDF dosyalarını yükleyerek CSV ve TXT formatlarında çıktı almanızı sağlayan bir uygulama.",
+  "requestFramePermissions": []
+}
